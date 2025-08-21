@@ -28,3 +28,7 @@ It contains a simple Java application that prints *"Welcome to Attendance System
 *code along project*
 compile- javac src/Component/src/Main.java
 run - java -cp src com.school.Main.
+
+screenshot 
+1. https://drive.google.com/file/d/1xl9e6PwVZC7glqLMXnOJaHbyMVS3bnvB/view?usp=sharing
+2. https://drive.google.com/file/d/1uSbJYUM8Zd2SmtP6ortOGgFvBlg_5OWR/view?usp=sharing
